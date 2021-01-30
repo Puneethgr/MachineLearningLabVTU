@@ -1,7 +1,7 @@
 # MachineLearningLabVTU
 All lab programs for Machine Learning (ML) Lab as per VTU syllabus
 
-All programs link in one Colab notebook: https://colab.research.google.com/drive/12s1rRNM96dolPEpXpYVeUGfAf0UBkv4r?usp=sharing
+All programs in one Colab notebook: https://colab.research.google.com/drive/12s1rRNM96dolPEpXpYVeUGfAf0UBkv4r?usp=sharing
 
 MACHINE LEARNING LABORATORY SYLLABUS:
 
